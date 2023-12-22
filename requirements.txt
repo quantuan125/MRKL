@@ -3,7 +3,7 @@ boto3==1.28.57
 botocore==1.31.57
 chromadb==0.4.13
 htbuilder==0.6.2
-langchain==0.0.320
+langchain==0.0.329
 lark==1.1.7
 openai==0.27.8
 pinecone_client==2.2.2
